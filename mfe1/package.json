@@ -14,7 +14,7 @@
     "webpack": "^5.0.0"
   },
   "dependencies": {
-    "@angular-architects/module-federation": "^14.0.1",
+    "@angular-architects/module-federation": "^14.1.1",
     "@angular/animations": "13.1.1",
     "@angular/common": "13.1.1",
     "@angular/compiler": "13.1.1",
@@ -27,7 +27,7 @@
     "document-register-element": "^1.7.2",
     "rxjs": "6.6.0",
     "tslib": "^2.0.0",
-    "webpack-dev-server": "^4.7.1",
+    "webpack-dev-server": "^5.2.0",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
